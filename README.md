@@ -4,11 +4,11 @@
 
 ##
 
-<div align="center">
-  👩‍💻 I master the following programming languages
+<div>
+  <a href="https://www.linkedin.com/in/washington-jose" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     target="_blank"></a>
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">👩‍💻 I master the following programming languages <br><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
@@ -18,7 +18,7 @@
   <img align="center" alt="MongoDB" height="30" width="40" src="https://user-images.githubusercontent.com/75760299/155920410-7811323f-c2d1-4ce6-ad7a-f7dc00df38da.png"/>
   <img align="center" alt="NodeJS" height="30" width="40" src="https://user-images.githubusercontent.com/75760299/155921345-37d4b6d8-9149-4799-9757-6fc543ae56ee.png"/>
  </div>
- 
+  
  ##
 
 <div align="center">
